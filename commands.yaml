@@ -1,0 +1,95 @@
+OpenCSI: 1
+info:
+  description: null
+  version: null
+  title: standup
+  termsOfService: 'https://nimbella.com/terms'
+  contact: demo@nimbella.com
+  license:
+    name: 'Apache 2.0'
+    url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
+sourceBasePath: '<unset>'
+commands:
+  blockers:
+    sourcePath: '<unset>'
+    description: null
+    parameters:
+      -
+        name: string
+    options: []
+  clear-all:
+    sourcePath: '<unset>'
+    description: null
+    parameters: []
+    options: []
+  clear-blockers:
+    sourcePath: '<unset>'
+    description: null
+    parameters: []
+    options: []
+  clear-done:
+    sourcePath: '<unset>'
+    description: null
+    parameters: []
+    options: []
+  done:
+    sourcePath: '<unset>'
+    description: null
+    parameters:
+      -
+        name: string
+    options: []
+  clear-today:
+    sourcePath: '<unset>'
+    description: null
+    parameters: []
+    options: []
+  meeting:
+    sourcePath: '<unset>'
+    description: null
+    parameters:
+      -
+        name: location
+    options: []
+  reminder-all:
+    sourcePath: '<unset>'
+    description: null
+    parameters: []
+    options: []
+  reminder-blockers:
+    sourcePath: '<unset>'
+    description: null
+    parameters: []
+    options: []
+  reminder-done:
+    sourcePath: '<unset>'
+    description: null
+    parameters: []
+    options: []
+  reminder-today:
+    sourcePath: '<unset>'
+    description: null
+    parameters: []
+    options: []
+  today:
+    sourcePath: '<unset>'
+    description: null
+    parameters:
+      -
+        name: string
+    options: []
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
